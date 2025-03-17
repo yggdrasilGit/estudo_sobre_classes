@@ -1,5 +1,5 @@
 class DataTable:
-   def __init__(self, name = ""):
+   def __init__(self, name = "test"):
       
       self._name = name
       self._columns = []
